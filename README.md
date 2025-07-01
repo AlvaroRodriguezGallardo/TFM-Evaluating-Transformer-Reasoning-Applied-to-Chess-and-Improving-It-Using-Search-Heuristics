@@ -1,4 +1,4 @@
-# TFM-Evaluating-Transformer-Reasoning-Applied-to-Chess-and-Improving-It-Using-Search-Heuristics
+# TFM-Evaluation-of-reasoning-in-Transformers-applied-to-chess-and-its-improvement-through-search-heuristics
 
 In 2024, Google introduced three Large-Scale Transformer-based models (LST), with 9, 136, and 270 million parameters, designed to evaluate chess moves. The largest model, with 270 million parameters, was trained on billions of positions and achieved performance comparable to that of a grandmaster.
 
