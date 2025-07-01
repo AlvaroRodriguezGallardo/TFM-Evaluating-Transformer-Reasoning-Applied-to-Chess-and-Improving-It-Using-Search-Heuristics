@@ -8,4 +8,4 @@ First, the performance of the LST will be evaluated using a set of chess puzzles
 
 You can find the used models in this repo: [Searchless Chess](https://github.com/google-deepmind/searchless_chess).
 
-Thanks to my tutor [Francisco Herrera Triguero](https://scholar.google.com/citations?user=HULIk-QAAAAJ&hl=en) and my workmate [Ignacio Aguilera Martos](https://scholar.google.es/citations?user=6qqRY7oAAAAJ&hl=es) for support me in this project.
+Thanks to my tutor [Francisco Herrera Triguero](https://scholar.google.com/citations?user=HULIk-QAAAAJ&hl=en) and my workmates [Ignacio Aguilera Martos](https://scholar.google.es/citations?user=6qqRY7oAAAAJ&hl=es) and Jorge López Remacho for support me in this project
